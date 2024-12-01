@@ -1,0 +1,8 @@
+Flask: 2.3.2
+Selenium: 4.8.0
+BeautifulSoup (bs4): 4.12.0
+Requests: 2.31.0
+Request-HTML: 0.10.0
+Python: 3.12.4
+lxml: 4.9.2
+web-driver: 3.8.6
