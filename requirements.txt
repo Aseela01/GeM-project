@@ -6,3 +6,5 @@ Request-HTML: 0.10.0
 Python: 3.12.4
 lxml: 4.9.2
 web-driver: 3.8.6
+puppeteer : 23.5.0
+node: 20.17.0
